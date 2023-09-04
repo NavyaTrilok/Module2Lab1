@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "courseName": "IFT 554",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "Dinesh Sthapit, Tatiana Walsh",
+        "credits": "4",
+        "description": "Middleware Programming and Database security"
+    },
+    {
+        "id": 1,
+        "courseName": "IFT 560",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "Michael, Tatiana Walsh",
+        "credits": "4",
+        "description": "Cloud Architecture"
+    },
+    {
+        "id": 2,
+        "courseName": "IFT 525",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "Mary Margaret Chantre, Tatiana Walsh",
+        "credits": "4",
+        "description": "AI into Cybersecurity"
+    },
+    {
+        "id": 3,
+        "courseName": "IFT 530",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "Michael, Tatiana Walsh",
+        "credits": "4",
+        "description": "Big Data Analytics"
+    },
+    {
+        "id": 4,
+        "courseName": "IFT 540",
+        "image": "📚",
+        "from": "Information Technology",
+        "instructor": "Asmaa, Tatiana Walsh",
+        "credits": "4",
+        "description": "Data Visualization"
+    }
+]
